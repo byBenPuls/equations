@@ -1,0 +1,51 @@
+
+Программа была внезапно завершена из-за неизвестной ошибки!
+Решено квадратное уравнение: 3x^2+2x-5=0
+D: 64, X: 1.0, -1.6666666666666667
+Программа была внезапно завершена из-за непредвиденной ошибки!
+[Code 0x1] TypeError
+Программа была внезапно завершена из-за непредвиденной ошибки!
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\pythonProject\sqr.py", line 40, in <module>
+    os._exit()
+TypeError: _exit() missing required argument 'status' (pos 1)
+
+Программа была внезапно завершена из-за непредвиденной ошибки!
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\pythonProject\sqr.py", line 18, in <module>
+    x2 = (-b + sqrt(d)) / (2 * a)
+         ~~~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: float division by zero
+
+[ 2023-12-24 13:15:34.621440 ] Программа была внезапно завершена из-за непредвиденной ошибки!
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\pythonProject\sqr.py", line 19, in <module>
+    x2 = (-b + sqrt(d)) / (2 * a)
+         ~~~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: float division by zero
+
+Решено квадратное уравнение: 1x^2+2x-3=0
+D: 16, X: 1.0, -3.0
+Решено квадратное уравнение: 1x^2+2x-3=0
+D: 16, X: 1.0, -3.0
+Решено квадратное уравнение: 1x^2+0x-1=0
+D: 4, X: 1.0, -1.0
+[2023-12-24 14:42:41.123599] Программа была внезапно завершена из-за непредвиденной ошибки!
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\pythonProject\sqr.py", line 9, in <module>
+    a, b, c = map(int, input('ax^2+bx+c=0\nВведите коэффициенты квадратного уравнения: ').split())
+    ^^^^^^^
+ValueError: not enough values to unpack (expected 3, got 1)
+
+[2023-12-24 16:13:03.507899] Программа была внезапно завершена из-за непредвиденной ошибки!
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\pythonProject\sqr.py", line 9, in <module>
+    a, b, c = map(int, input('ax^2+bx+c=0\nВведите коэффициенты квадратного уравнения: ').split())
+    ^^^^^^^
+ValueError: invalid literal for int() with base 10: '1b'
+[2023-12-24 16:17:17.597112] Программа была внезапно завершена из-за непредвиденной ошибки!
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\pythonProject\sqr.py", line 7, in <module>
+    main = int(input('1 - квадратное\n2 - кубическое\n3 - линейное\nВыберите число: '))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '137984 35'
